@@ -1,0 +1,15 @@
+/Users/igormincenko/Desktop/Новая папка/bin/Debug/net6.0/Новая папка
+/Users/igormincenko/Desktop/Новая папка/bin/Debug/net6.0/Новая папка.deps.json
+/Users/igormincenko/Desktop/Новая папка/bin/Debug/net6.0/Новая папка.runtimeconfig.json
+/Users/igormincenko/Desktop/Новая папка/bin/Debug/net6.0/Новая папка.dll
+/Users/igormincenko/Desktop/Новая папка/bin/Debug/net6.0/Новая папка.pdb
+/Users/igormincenko/Desktop/Новая папка/obj/Debug/net6.0/Новая папка.csproj.AssemblyReference.cache
+/Users/igormincenko/Desktop/Новая папка/obj/Debug/net6.0/Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igormincenko/Desktop/Новая папка/obj/Debug/net6.0/Новая папка.AssemblyInfoInputs.cache
+/Users/igormincenko/Desktop/Новая папка/obj/Debug/net6.0/Новая папка.AssemblyInfo.cs
+/Users/igormincenko/Desktop/Новая папка/obj/Debug/net6.0/Новая папка.csproj.CoreCompileInputs.cache
+/Users/igormincenko/Desktop/Новая папка/obj/Debug/net6.0/Новая папка.dll
+/Users/igormincenko/Desktop/Новая папка/obj/Debug/net6.0/refint/Новая папка.dll
+/Users/igormincenko/Desktop/Новая папка/obj/Debug/net6.0/Новая папка.pdb
+/Users/igormincenko/Desktop/Новая папка/obj/Debug/net6.0/Новая папка.genruntimeconfig.cache
+/Users/igormincenko/Desktop/Новая папка/obj/Debug/net6.0/ref/Новая папка.dll
